@@ -6,3 +6,7 @@ White
 Orange
 Black
 Brown
+
+AK
+KARA
+
