@@ -1,8 +1,4 @@
 Blue
 Green
 Red
-
-White
-Orange
-Black
-Brown
+*** Black Black Black ***
