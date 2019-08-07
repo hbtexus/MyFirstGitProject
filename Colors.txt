@@ -1,3 +1,1 @@
-Blue
-Green
-Red
+My scary conflict code
