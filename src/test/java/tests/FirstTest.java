@@ -5,5 +5,8 @@ public class FirstTest {
         System.out.println("Hello World with Conflict!");
         System.out.println("Hi!");
         System.out.println("Commit 1");
+
+        System.out.println("Commit 2");
+
     }
 }
