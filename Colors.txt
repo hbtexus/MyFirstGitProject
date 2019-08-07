@@ -1,8 +1,11 @@
 Blue
 Green
 Red
-
+####
 White
 Orange
 Black
 Brown
+****
+AMBER
+BLACK COFFE
